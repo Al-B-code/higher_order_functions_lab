@@ -88,9 +88,4 @@ console.log(actual);
 
 
 
-
-
-
-
-
 module.exports = ScranAdvisor;
