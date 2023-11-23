@@ -126,7 +126,7 @@ describe('ScranAdvisor', () => {
 
     test('can find the most common cuisine type', () => {
 
-        expected = "JAPANESE";
+        expected = "JAPA`NESE";
 
         actual = scranAdvisor.findMostCommonCuisine();
 
