@@ -82,7 +82,7 @@ const restaurants = require('./restaurants.json')
 let scranAdvisor = new ScranAdvisor(restaurants);
 
 const actual = scranAdvisor.findMostCommonCuisine();
-console.log(actual);
+
 
 
 
